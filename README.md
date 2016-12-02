@@ -1,10 +1,10 @@
 ## Obtain Training Data from Twitter
-### Install package
+### Install Package
 Twitter4J API: [http://twitter4j.org](http://twitter4j.org)
 1. Go to the Twitter4J homepage 
 2. Download twitter4j-4.0.4.zip 
 3. Locate twitter4j-core-4.0.4.jar package inside the lib folder 
-4. Copy the jar to your working directory 
+4. Copy the jar to your a folder named lib working directory 
 5. Add it to your Eclipse project
 6. Fill in TwiterAPIConfig.java with your account info
 
@@ -37,7 +37,7 @@ Guidelines for Training Data: [http://www.ibm.com/watson/developercloud/doc/nl-c
 ### Install Package
 1. Go to [http://github.com/watson-developer-cloud/java-sdk](https://github.com/watson-developer-cloud/java-sdk) 
 2. Download the JAR with dependencies 
-3. Copy the jar to your working directory 
+3. Copy the jar to your a folder named lib working directory
 4. Add jar to Eclipse
 5. Fill in TweetClassifier.java with your account info 
 
