@@ -1,6 +1,7 @@
 ## Obtain Training Data from Twitter
 ### Install Package
 Twitter4J API: [http://twitter4j.org](http://twitter4j.org)
+
 1. Go to the Twitter4J homepage 
 2. Download twitter4j-4.0.4.zip 
 3. Locate twitter4j-core-4.0.4.jar package inside the lib folder 
